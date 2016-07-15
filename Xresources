@@ -1,0 +1,6 @@
+
+
+rofi.color-normal: #333333,#f1f1f1,#333333,#00a7ab,#e1e1e1
+rofi.color-window: #333333,#333333,#333333,#333333,#333333
+rofi.opacity: 80
+rofi.font: Hack 10
